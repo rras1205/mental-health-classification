@@ -52,7 +52,7 @@ For this project:
 
 | Class Distribution | 
 |--------------------|
-| ![Class Distribution](screenshots/dataset_preview.png) |
+| ![Class Distribution](screenshots/value_counts.png) |
 
 This near 50/50 split is beneficial for training as it means the model is not heavily biased towards one class. 
 
