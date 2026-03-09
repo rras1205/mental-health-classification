@@ -45,7 +45,7 @@ For this project:
 * 'Depression' status was encoded as '0' while 'Normal' status was encoded as '1'.
 * The task is treated as a supervised binary classification problem.
 
-The dataset comprising of only 'Depression' and 'Normal' statements totaled up to over 37,000 text samples. 
+The dataset comprising of only 'Depression' and 'Normal' statements totaled up to over 30,000 text samples. 
 
 
 | Dataset Preview | 
