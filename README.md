@@ -147,6 +147,8 @@ The ANN is included to test whether deeper nonlinear models outperform classical
 | Decision Tree       | Non-linear splits                | Risk of overfitting                   |
 | ANN                 | Flexible representation learning | Limited improvement over linear model |
 
+Logistic Regression likely performed the best as it excels at finding linear decision boundaries in TF-IDF high dimensional feature space where relationship are more linearly separable, and has built in regularization to prevent overfitting.
+
 ## Qualitative Testing on Custom Statements
 
 To further evaluate real-world behavior, manually constructed example statements were passed through the trained models.
