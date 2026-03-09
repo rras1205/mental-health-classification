@@ -147,10 +147,6 @@ The ANN is included to test whether deeper nonlinear models outperform classical
 | Decision Tree       | Non-linear splits                | Risk of overfitting                   |
 | ANN                 | Flexible representation learning | Limited improvement over linear model |
 
-### Key insight::
-
-Linear models often perform strongly on TF-IDF representations because text data becomes linearly separable in high-dimensional space
-
 ## Qualitative Testing on Custom Statements
 
 To further evaluate real-world behavior, manually constructed example statements were passed through the trained models.
