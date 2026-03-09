@@ -41,9 +41,11 @@ This binary framing simplifies interpretability and aligns with real-world scree
 The dataset contains text statements labeled with mental health categories.
 
 For this project:
-* Only Depression and Non-Depression were used.
+* Only 'Depression' and 'Normal' were used.
 * 'Depression' status was encoded as '0' while 'Normal' status was encoded as '1'.
 * The task is treated as a supervised binary classification problem.
+
+The dataset comprising of only 'Depression' and 'Normal' statements totaled up to over 37,000 text samples. 
 
 
 | Dataset Preview | 
